@@ -1,2 +1,2 @@
 # 65133897-AndroidProgramming
-lập trình android
+lập trình android.
