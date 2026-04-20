@@ -20,12 +20,46 @@
 
     <androidx.fragment.app.FragmentContainerView
         android:id="@+id/fragmentContainerView_Footer"
- an
+        android android:name="thigk2.nguyentuphattrien_65133897.ContentFragment"
         android:layout_width="0dp"
         android:layout_height="80dp"
         android:background="#521B1B"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent" />
+
+
+    <androidx.fragment.app.FragmentContainerView
+        android:id="@+id/fragmentContainerView_Footer"
+        android android:name="thigk2.nguyentuphattrien_65133897.ChucNang2_Fragment"
+        android:layout_width="0dp"
+        android:layout_height="80dp"
+        android:background="#521B1B"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent" />
+
+    <androidx.fragment.app.FragmentContainerView
+        android:id="@+id/fragmentContainerView_Footer"
+        android android:name="thigk2.nguyentuphattrien_65133897.ChucNang3_Fragment"
+        android:layout_width="0dp"
+        android:layout_height="80dp"
+        android:background="#521B1B"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent" />
+
+
+    <androidx.fragment.app.FragmentContainerView
+        android:id="@+id/fragmentContainerView_Footer"
+        android android:name="thigk2.nguyentuphattrien_65133897.ChucNang4_Fragment"
+        android:layout_width="0dp"
+        android:layout_height="80dp"
+        android:background="#521B1B"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent" />
+
+
 
 </androidx.constraintlayout.widget.ConstraintLayout>
