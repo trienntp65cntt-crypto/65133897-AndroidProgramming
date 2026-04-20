@@ -20,7 +20,7 @@
 
     <androidx.fragment.app.FragmentContainerView
         android:id="@+id/fragmentContainerView_Footer"
- 
+ an
         android:layout_width="0dp"
         android:layout_height="80dp"
         android:background="#521B1B"
