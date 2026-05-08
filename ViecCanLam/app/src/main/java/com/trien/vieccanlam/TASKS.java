@@ -7,9 +7,9 @@ public class TASKS implements Serializable {
     String name;
     String date;
     String message;
-    Integer  priority;
+    String  priority;
 
-    public TASKS(String name, String date, String message, Integer priority) {
+    public TASKS(String name, String date, String message, String priority) {
         this.name = name;
         this.date = date;
         this.message = message;
@@ -43,11 +43,11 @@ public class TASKS implements Serializable {
         this.message = message;
     }
 
-    public Integer getPriority() {
+    public String getPriority() {
         return priority;
     }
 
-    public void setPriority(Integer priority) {
+    public void setPriority(String priority) {
         this.priority = priority;
     }
 
